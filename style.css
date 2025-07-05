@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+} 
+
+.resume-container{
+    background-color: lightcoral;
+}  
+
+.objective{
+    background-color: lightgreen;
+} 
+.education{
+    background-color: lightgray;
+} 
+.skills{
+    background-color: lightyellow;
+} 
+.project{
+    background-color: chocolate;
+} 
+.certification{
+    background-color: gold;
+} 
+.strengths{
+    background-color: lightslategray;
+}
